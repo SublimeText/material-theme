@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Mattia> -- <Web Designer & Developer> -- <@mattiaastorino>
+
+
+# TECHNOLOGY COLOPHON
+
+    SASS, REACT,
+    OS X, Sketch App

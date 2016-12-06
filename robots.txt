@@ -1,0 +1,3 @@
+# http://equinusocio.github.io/material-theme/
+
+User-agent: *
