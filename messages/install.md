@@ -1,6 +1,6 @@
 ## Material Theme for Sublime Text 3
 
-For more information on the Material Theme: https://github.com/equinusocio/material-theme
+For more information on the Material Theme: https://github.com/SublimeText/material-theme
 
 **********************************************************************************************
 

@@ -6,14 +6,14 @@
 
 ![Material Theme](http://i.imgur.com/9PyxJMN.gif)
 
-[![GitHub tag](https://img.shields.io/github/release/equinusocio/material-theme.svg?style=flat-square)](https://github.com/equinusocio/material-theme/releases)
+[![GitHub tag](https://img.shields.io/github/release/SublimeText/material-theme.svg?style=flat-square)](https://github.com/SublimeText/material-theme/releases)
 [![Downloads](https://img.shields.io/packagecontrol/dt/Material%20Theme.svg?colorB=80d4cd&style=flat-square)](https://packagecontrol.io/packages/Material%20Theme)
 [![Package Quality](http://npm.packagequality.com/shield/material-theme.svg?colorB=80d4cd&style=flat-square)](http://packagequality.com/#?package=material-theme)
 [![Join the chat at https://gitter.im/original-material-theme/sublime-text](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg?style=flat-square)](https://gitter.im/original-material-theme/sublime-text?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This theme brings the [Material Design](http://www.google.com/design/) visual language to your Sublime Text 3. If you have problems, first search for a similar issue and then report a [new one](https://github.com/equinusocio/material-theme/issues).
+This theme brings the [Material Design](http://www.google.com/design/) visual language to your Sublime Text 3. If you have problems, first search for a similar issue and then report a [new one](https://github.com/SublimeText/material-theme/issues).
 
-Please read the [Known Issues](https://github.com/equinusocio/material-theme#known-issues) section before reporting a new one. Any issue that does not use the issue template and any issue related to the [known issues section](https://github.com/equinusocio/material-theme#known-issues) will be automatically closed.
+Please read the [Known Issues](https://github.com/SublimeText/material-theme#known-issues) section before reporting a new one. Any issue that does not use the issue template and any issue related to the [known issues section](https://github.com/SublimeText/material-theme#known-issues) will be automatically closed.
 
 
 # Easy installation
@@ -25,7 +25,7 @@ You can install this awesome theme through the [Package Control](https://package
 
 # Manual installation
 
-1. Download the [latest release](https://github.com/equinusocio/material-theme/releases/latest), extract and rename the directory to **"Material Theme"**.
+1. Download the [latest release](https://github.com/SublimeText/material-theme/releases/latest), extract and rename the directory to **"Material Theme"**.
 2. Move the directory inside your sublime `Packages` directory. **(Preferences > Browse packages...)**
 
 
@@ -201,7 +201,7 @@ Brown      | `#AB7967`         |  `#AB7967` |
 
 
 ## Thanks
-Thanks for all the [contributors](https://github.com/equinusocio/material-theme/graphs/contributors).
+Thanks for all the [contributors](https://github.com/SublimeText/material-theme/graphs/contributors).
 
 Check the video review by **LevelUpTuts**
 

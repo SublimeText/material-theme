@@ -10,7 +10,7 @@ import webbrowser
 class MtRepoCommand(sublime_plugin.WindowCommand):
     def run(self):
         """Open the repository in a browser tab."""
-        webbrowser.open_new_tab('https://github.com/equinusocio/material-theme')
+        webbrowser.open_new_tab('https://github.com/SublimeText/material-theme')
 
 
 # Issues command.
@@ -19,4 +19,4 @@ class MtRepoCommand(sublime_plugin.WindowCommand):
 class MtIssuesCommand(sublime_plugin.WindowCommand):
     def run(self):
         """Open the issues page in a browser tab"""
-        webbrowser.open_new_tab('https://github.com/equinusocio/material-theme/issues')
+        webbrowser.open_new_tab('https://github.com/SublimeText/material-theme/issues')

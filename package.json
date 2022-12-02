@@ -39,10 +39,6 @@
     "run-sequence": "^2.2.0",
     "yargs": "^10.0.3"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://equinusocio@github.com/equinusocio/material-theme.git"
-  },
   "keywords": [
     "material",
     "theme",
@@ -53,7 +49,7 @@
   "author": "Mattia Astorino",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/equinusocio/material-theme/issues"
+    "url": "https://github.com/SublimeText/material-theme/issues"
   },
-  "homepage": "http://equinusocio.github.io/material-theme/"
+  "homepage": "http://sublimetext.github.io/material-theme/"
 }
