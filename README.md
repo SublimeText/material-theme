@@ -59,7 +59,7 @@ Please see the issue [#67](https://github.com/equinusocio/material-theme/issues/
 # Addons
 
 #### File icons
-From release 4.0.0 this theme use [A File Icon](https://github.com/ihodev/a-file-icon) package to display file icons. Please install the package and restart Sublime Text.
+From release 4.0.0 this theme use [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon) package to display file icons. Please install the package and restart Sublime Text.
 
 #### App Bar
 

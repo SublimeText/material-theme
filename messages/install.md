@@ -21,7 +21,7 @@ You can also manually activate this theme by adding these lines to your user set
 **NOTE:** Restart Sublime Text after activating the theme.
 
 ## File icons
-From release 4.0.0 this theme use [A File Icon](https://github.com/ihodev/a-file-icon) package to display file icons. Please install the package and restart Sublime Text.
+From release 4.0.0 this theme use [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon) package to display file icons. Please install the package and restart Sublime Text.
 
 **********************************************************************************************
 
