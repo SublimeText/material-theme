@@ -1,10 +1,10 @@
 <p align="center">
-  <h3>
+  <h2>
       This project is no longer maintained.
       The original author has abandoned it and replaced the repository
       with their theme for.
       This repository is a mirror of the last publicly known state.
-  </h3>
+  </h2>
 </p>
 
 ![Material Theme](http://i.imgur.com/9PyxJMN.gif)
