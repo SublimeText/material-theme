@@ -2,7 +2,7 @@
   <h2>
       This project is no longer maintained.
       The original author has abandoned it and replaced the repository
-      with their theme for.
+      with their theme for VS Code.
       This repository is a mirror of the last publicly known state.
   </h2>
 </p>
