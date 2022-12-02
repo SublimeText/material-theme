@@ -132,7 +132,7 @@ This UI theme uses a custom compiler build on Gulp and JS. If you want to edit t
 
 1. Install the `PackageDev` package to Sublime Text.
 
-2. Then create a new symlink for the `subl` command following [this guide](https://www.sublimetext.com/docs/2/osx_command_line.html)
+2. Then create a new symlink for the `subl` command following [this guide](https://www.sublimetext.com/docs/command_line.html)
 
 3. Install all the required packages:
 
