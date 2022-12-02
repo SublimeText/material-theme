@@ -1,5 +1,13 @@
 ## Material Theme for Sublime Text 3
 
+***Important Notice***
+
+Please note that this package is **deprecated** and not maintained anymore!
+You are using a mirror of a now-deleted repository.
+See https://github.com/wbond/package_control_channel/pull/8646 for details.
+
+**********************************************************************************************
+
 For more information on the Material Theme: https://github.com/SublimeText/material-theme
 
 **********************************************************************************************
