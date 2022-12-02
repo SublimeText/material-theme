@@ -1,6 +1,9 @@
 <p align="center">
   <h3>
-      This project is no longer under active development. This theme should be completely rewritten from scratch, if any python developer want to help me to revive this project, contact me.
+      This project is no longer maintained.
+      The original author has abandoned it and replaced the repository
+      with their theme for.
+      This repository is a mirror of the last publicly known state.
   </h3>
 </p>
 
