@@ -61,17 +61,6 @@ Please see the issue [#67](https://github.com/equinusocio/material-theme/issues/
 #### File icons
 From release 4.0.0 this theme use [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon) package to display file icons. Please install the package and restart Sublime Text.
 
-#### App Bar
-
-[Material Theme Appbar](https://github.com/equinusocio/material-theme-appbar)
-This official addon enable a beautiful colored tab bar to your Material Theme. The color tint fits automagically the material theme accent color you choosed.
-
-#### White panels
-
-[Material Theme White Panels](https://github.com/equinusocio/material-theme-white-panels)
-If you want to enable the white panels and inputs you can install the addon package through **Package Control**, search for "Material theme white panels". You have to disable it if you want to use the ```Lighter``` theme style.
-
-
 # Theme options
 
 ```json
@@ -174,7 +163,6 @@ Material Theme was also ported to:
 - [Vim](https://github.com/kristijanhusak/vim-hybrid-material) (thanks to [@kristijanhusak](https://github.com/kristijanhusak)).
 - [Terminal OSX](https://gist.github.com/mvaneijgen/4c56701215847dd5ddcf) (thanks to [@mvaneijgen](https://github.com/mvaneijgen)).
 - [iTerm2](https://gist.github.com/Revod/3f3115f8d4b90fc986fd4b61441c2567) (by [@Revod](https://github.com/Revod)) and [iTerm2 Palenight](https://github.com/JonathanSpeek/palenight-iterm2) (by [@jonathanspeek](https://github.com/jonathanspeek)).
-- [Hyper](https://github.com/equinusocio/hyper-material-theme).
 - [ConEmu](https://gist.github.com/rajadain/b306b2ba71bd58a1df41) (thanks to [@rajadain](https://github.com/rajadain)).
 - [Slack App](https://slack.com/) ( #263238,#2e3a40,#80CBC4,#FFFFFF,#13191C,#ffffff,#50fa7b,#FF5555 )
 - [Nylas N1](https://github.com/jackiehluo/n1-material) (thanks to [@jackiehluo](https://github.com/jackiehluo))
