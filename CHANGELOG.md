@@ -1,3 +1,22 @@
+<a name="41.5.0"></a>
+## [41.5.0](https://github.com/equinusocio/material-theme/compare/v4.1.5...v41.5.0) (2022-12-02)
+
+***Important Notice***
+
+Please note that this package is **deprecated** and not maintained anymore!
+You are using a mirror of a now-deleted repository.
+See https://github.com/wbond/package_control_channel/pull/8646 for details.
+
+---
+
+This release is a re-release of the previous version
+to undo the replacement of this repository
+with a theme for VS Code
+that broke many users' environments.
+
+(The version bump was necessary to be higher than 33.6,
+which is what the VSC theme used last.)
+
 <a name="4.1.5"></a>
 ## [4.1.5](https://github.com/equinusocio/material-theme/compare/v4.1.4...v4.1.5) (2018-03-17)
 
