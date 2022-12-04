@@ -3879,6 +3879,11 @@
       "selected_match_fg": [92, 107, 192]
     },
 
+    {
+      "class": "quick_panel_detail_label",
+      "link_color": "#2196F3"
+    },
+
       // Panels data / score
 
     {
