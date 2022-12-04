@@ -5,7 +5,19 @@
 
 [
   //
-  
+
+  // @TITLE BAR
+  // Style for title bar
+  // =========================================================================
+
+  {
+    "class": "title_bar",
+    "settings": ["themed_title_bar"],
+    "bg": [41, 45, 62],
+    "fg": [166, 172, 205],
+    "style": "system"
+  },
+
   // @EMPTY WINDOW
   // Style for empty (no tabs) window
   // =========================================================================

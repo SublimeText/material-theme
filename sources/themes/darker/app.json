@@ -1,3 +1,14 @@
+/* TITLE BAR
+ * Style for title bar
+========================================================================= */
+
+  {
+    "class": "title_bar",
+    "settings": ["themed_title_bar"],
+    "bg": [<%= ui.background.primary.rgb %>],
+    "fg": [<%= ui.foreground.primary.rgb %>],
+    "style": "system"
+  },
 
 /* @EMPTY WINDOW
  * Style for empty (no tabs) window
