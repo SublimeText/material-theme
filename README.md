@@ -131,7 +131,7 @@ You can also use the official Material Design monospace font "[Roboto Mono](http
 
 # Contributing
 
-> ⚠ **Warning** ⚠
+> **Warning**
 >
 > Some dependencies of the build pipeline
 > potentially contain [dangerous code][] (read: security vulnerabilities)
