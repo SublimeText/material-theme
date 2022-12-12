@@ -131,6 +131,17 @@ You can also use the official Material Design monospace font "[Roboto Mono](http
 
 # Contributing
 
+> ⚠ **Warning** ⚠
+>
+> Some dependencies of the build pipeline
+> potentially contain [dangerous code][] (read: security vulnerabilities)
+> because they have not been updated in a long time.
+> It is unknown how relevant this is for this repository in particular.
+>
+> *Proceed at your own discretion!*
+
+[dangerous code]: https://github.com/wbond/package_control_channel/pull/8658#issuecomment-1346082763
+
 This UI theme uses a custom compiler build on Gulp and JS. If you want to edit the UI you must first install the compiler:
 
 1. Install the `PackageDev` package to Sublime Text.
