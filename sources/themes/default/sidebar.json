@@ -78,6 +78,13 @@
 
   {
     "class": "sidebar_label",
+    "parents": [{"class": "file_system_entry", "attributes": ["ignored"]}],
+    "font.bold": false,
+    "color": [80, 80, 80]
+  },
+
+  {
+    "class": "sidebar_label",
     "parents": [{"class": "tree_row", "attributes": ["hover"]}],
     "color": [255,255,255],
     "shadow_color": [255, 255, 255, 0],
